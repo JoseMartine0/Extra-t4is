@@ -9,5 +9,13 @@ public class Data : IData{
         _sqlConnection = mySqlConnection;
     }
 
-    public async Task<List<Estacionamiento>> ObtenEstacionamientoAsync();
+    public async Task<List<Estacionamiento>> ObtenEstacionamientoAsync(){
+        
+        await _sqlConnection.OpenAsync();
+
+        List<Estacionamiento> lugares = new();
+        using var command = new MySqlCommand(@"SELECT lugares.id", _sqlConnection);
+        using var reader = await command.ExecuteReaderAsync();
+    }
+    return Estacionamiento;
 }
