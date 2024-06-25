@@ -23,3 +23,8 @@ C:\Users\drago\OneDrive\Escritorio\estacionamiento\obj\Debug\net8.0\refint\estac
 C:\Users\drago\OneDrive\Escritorio\estacionamiento\obj\Debug\net8.0\estacionamiento.pdb
 C:\Users\drago\OneDrive\Escritorio\estacionamiento\obj\Debug\net8.0\estacionamiento.genruntimeconfig.cache
 C:\Users\drago\OneDrive\Escritorio\estacionamiento\obj\Debug\net8.0\ref\estacionamiento.dll
+C:\Users\drago\OneDrive\Escritorio\estacionamiento\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\drago\OneDrive\Escritorio\estacionamiento\bin\Debug\net8.0\MySqlConnector.DependencyInjection.dll
+C:\Users\drago\OneDrive\Escritorio\estacionamiento\obj\Debug\net8.0\estacionamiento.csproj.AssemblyReference.cache
+C:\Users\drago\OneDrive\Escritorio\estacionamiento\obj\Debug\net8.0\estacionamiento.sourcelink.json
+C:\Users\drago\OneDrive\Escritorio\estacionamiento\obj\Debug\net8.0\estacion.F7E1A5BA.Up2Date
